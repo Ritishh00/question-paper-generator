@@ -19,8 +19,5 @@ streamlit run app.py
 ```
 
 ## Authors
-- Harsh Dhamecha
-- Vrushank Pambhar
-- Kashyap Busa
-
+- Ritish singh
 
