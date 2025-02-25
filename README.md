@@ -1,10 +1,8 @@
 # Question-Paper-Generator  
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://question-paper-generator.streamlit.app/)
+
 
 An Application for Question Paper Generation for different subjects including Data Structures and Algorithms, Operating Systems and Database Management System. University Professors can leverage this application to set Mid Semester Exam Paper, Final Semester Exam Paper, Unit Tests, Topic-wise Quiz or Custom  Question Paper.
 
-## Demo Video
-[Watch on YouTube](https://youtu.be/Qc3V_ap4Ly4)
 
 ## Install
 ```bash
