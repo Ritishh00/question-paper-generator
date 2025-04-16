@@ -6,7 +6,7 @@ An Application for Question Paper Generation for different subjects including Da
 
 ## Install
 ```bash
-git clone https://github.com/harshdhamecha/Question-Paper-Generator.git
+git clone https://github.com/Ritishh00/question-paper-generator.git
 cd Question-Paper-Generator
 conda create -n paper_generator python==3.9.18
 conda activate paper_generator
